@@ -24,20 +24,8 @@ My most recent work includes the Quest100 platform (front-end and back-end) as w
 
 ### Also Worked With
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,go,angular,js,html,css,mongodb,docker" />
+  <img src="https://skillicons.dev/icons?i=dotnet,go,angular,js,html,css,SCSS,mongodb,docker,SQL" />
 </p>
-
-- .NET  
-- Go  
-- Angular  
-- JavaScript  
-- HTML  
-- CSS / SCSS  
-- Jupyter Notebook  
-- MongoDB  
-- SQL  
-- Docker  
-- CI/CD Pipelines  
 
 ---
 
