@@ -24,7 +24,7 @@ My most recent work includes the Quest100 platform (front-end and back-end) as w
 
 ### Also Worked With
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,go,angular,js,html,css,SCSS,mongodb,docker,SQL" />
+  <img src="https://skillicons.dev/icons?i=dotnet,go,angular,js,html,css,scss,mongodb,docker,mysql,postgres" />
 </p>
 
 ---
