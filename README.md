@@ -9,7 +9,7 @@
 
 ## 🚀 Projects
 
-Most of my projects are the result of my 3 years at KdG University, where I gained hands-on experience throughout the full software development lifecycle — from analysis and design to development and deployment.
+Most of my projects are the result of my 3 years at KdG University, where I gained hands-on experience throughout the full software development lifecycle, from analysis and design to development and deployment.
 
 My most recent work includes the Quest100 platform (front-end and back-end) as well as multiple projects within the ArchPortal organization.
 
