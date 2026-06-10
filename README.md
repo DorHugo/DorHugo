@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Hugo Dor 👋</h1>
+<h1 align="center">Hi, I'm Hugo Dor </h1>
 
 <p align="center">
   Recently graduated Applied Computer Science student at KdG <br/>
@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 Projects
+## Projects
 
 Most of my projects are the result of my 3 years at KdG University, where I gained hands-on experience throughout the full software development lifecycle, from analysis and design to development and deployment.
 
@@ -15,7 +15,7 @@ My most recent work includes the Quest100 platform (front-end and back-end) as w
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Most Experience With
 <p>
@@ -29,7 +29,7 @@ My most recent work includes the Quest100 platform (front-end and back-end) as w
 
 ---
 
-## 📫 Contact
+## Contact
 
-- LinkedIn: [https://www.linkedin.com/in/hugo-dor/](https://www.linkedin.com/in/hugo-dor/)
+- LinkedIn: [https://www.linkedin.com/hugo-dor/](https://www.linkedin.com/in/hugo-dor/)
 - Email: dorhugomc@gmail.com
