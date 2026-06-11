@@ -2,7 +2,7 @@
 
 <p align="center">
   Recently graduated Applied Computer Science student at KdG <br/>
-  Passionate and driven full-stack developer with experience in TypeScript, React, Angular, Go, .NET
+  Passionate and driven full-stack developer with experience in Java, TypeScript, React, Angular, Go, .NET
 </p>
 
 ---
